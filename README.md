@@ -351,9 +351,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or contributions:
 
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/sql-etl-pipeline/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/okeafeez/sql-etl-pipeline/issues)
 - **Documentation**: Check the `docs/` directory for detailed guides
-- **Email**: your.email@example.com
+- **Email**: adeshinaoke@gmail.com
 
 ---
 
